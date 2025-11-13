@@ -2,7 +2,7 @@
 
 **`Cientista  de  Dados`**
 
-Me chamo Marcelo Rodrigues, tenho 31 anos e sou natural do São  Paulo.Atualmente, estou  me  especializando em  ciências de  dados  foco  em planejamento estrategico. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Marcelo Rodrigues](https://www.youtube.com/@eu.marcelorodrigues)", onde ensino a criar projetos de  BI.
+Me chamo Marcelo Rodrigues, sou  Cientista de  Dados.Atualmente, estou  me  especializando em  ciências de  dados  foco  em planejamento estrategico. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Marcelo Rodrigues](https://www.youtube.com/@eu.marcelorodrigues)", onde ensino a criar projetos de  BI.
 
 <p align="left">
     <a href="https://www.youtube.com/@eu.marcelorodrigues?sub_confirmation=1">
